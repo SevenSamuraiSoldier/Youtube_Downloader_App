@@ -1,0 +1,4 @@
+ffmpeg==1.4
+ffmpeg_python==0.2.0
+pytubefix==6.10.2
+streamlit==1.37.1
